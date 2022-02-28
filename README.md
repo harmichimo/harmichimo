@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harmichimo
+- 👀 I’m interested in software development, webb apps, and blockchain technology.
+- 🌱 I’m currently learning ReactJS and .NET
+- 💞️ I’m looking to collaborate on Python, C++, JavaScript and blockchain heavy projects.
+- 📫 Reach me at ichimoharm@gmail.com

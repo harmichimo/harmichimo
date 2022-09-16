@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @harmichimo
 - 👀 I’m interested in software development, web apps, and blockchain technology.
-- 🌱 I’m currently learning how to build iOS apps and brushing up on Java coding.
+- 🌱 I’m currently learning how to build iOS apps.
+- 🌱 I’m also learning about cybersecurity and ethical hacking.
 - 💞️ I’m looking to collaborate on Python, C++, JavaScript and blockchain projects.
 - 📫 Reach me at ichimoharm@gmail.com
